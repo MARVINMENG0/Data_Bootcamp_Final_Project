@@ -23,6 +23,5 @@ the project and course.
 
 Project Description
 
-This project will study how education levels and crime rates have evolved over time at a narrow geographic level (a commute zone) within the United States – more specifically across New York City boroughs. This project will also evaluate the the possibility of policing policies implemented by NYC mayors between 2000 - present (Michael Bloomberg, Bill de Blasio) as  confounding variables in reducing crime rates. Essentially, the project aims to investigate two main questions: 
-- Does education level have an impact on crime rates across New York City boroughs?
-- How effective were specific policing policies in reducing crime rates, and what effect did that have on education levels across New York City boroughs?
+This project will study how education levels and crime rates have evolved over time at a narrow geographic level (a commute zone) within the United States – more specifically across New York City boroughs. Essentially, the project aims to investigate the main question: 
+Does education level have an impact on crime rates across New York City boroughs?
